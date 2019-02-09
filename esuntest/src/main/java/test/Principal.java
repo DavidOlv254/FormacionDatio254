@@ -1,5 +1,6 @@
-import org.apache.log4j.Logger;
+package test;
 import java.util.Scanner;
+import org.apache.log4j.Logger;
 
 public class Principal {
 
